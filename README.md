@@ -1,1 +1,3 @@
-# Conhecendo Git e Github, ajustes na configuração
+# Conhecendo Git e Github, ajustes na configuração!
+
+V01
